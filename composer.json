@@ -1,11 +1,11 @@
 {
-    "name": "ramos94/php-trustpilot-api",
+    "name": "apanteleychuk/trustpilot",
     "description": "Api Client to connect to trustpilot Services",
     "license": "MIT",
     "authors": [
         {
-            "name": "Carlos Ramos Torres",
-            "email": "carlos.ramos@latostadora.com",
+            "name": "Alexey Panteleychuk",
+            "email": "Alexey.panteleychuk@gmail.com",
             "role": "Developer"
         }
     ],
